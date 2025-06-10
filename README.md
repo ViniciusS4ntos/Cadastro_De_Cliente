@@ -24,3 +24,9 @@ Este é um sistema simples de cadastro de clientes, desenvolvido com **Python**,
 
 ## Estrutura do Projeto
 
+/Cadastrar_Clientes
+├── backend/
+├── frontend/
+├── database/
+├── .gitignore
+├── README.md

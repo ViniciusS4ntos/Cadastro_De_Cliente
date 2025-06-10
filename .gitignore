@@ -1,0 +1,54 @@
+# ===================
+# Python
+# ===================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv/
+env/
+venv/
+ENV/
+*.log
+*.sqlite3
+
+# Jupyter Notebooks (caso use)
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# ===================
+# PHP
+# ===================
+*.log
+*.cache
+*.env
+/vendor/
+composer.lock
+
+# ===================
+# MySQL Workbench
+# ===================
+*.mwb.bak
+*.sql.bak
+
+# Backup and dump files
+*.sql
+*.dump
+
+# ===================
+# Sistema Operacional
+# ===================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===================
+# Outros
+# ===================
+*.bak
+*.tmp
+*.swp
+*.swo
